@@ -1,2 +1,2 @@
-pub mod lin_reg;
+pub mod linear_regression;
 pub mod metrics;
